@@ -1,0 +1,31 @@
+h1 {
+	color:black;
+	font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+}
+h2 {
+	color:darkgray;
+	font-family: 'Lemon', serif;
+}
+p {
+	color:darkgray;
+}
+
+}
+body {
+	text-align:center;
+	background-color:whitesmoke;
+}
+span{
+	background-color:black;
+}
+
+
+		}
+ul {
+	color: lightgray;
+}
+footer {
+	text-align: center;
+	background-color:#000089;
+}
